@@ -49,7 +49,7 @@ export const InsightsAI: React.FC<InsightsAIProps> = ({ election }) => {
   const handleDownloadCertification = () => {
     const reportText = `================================================================================
 SRM INSTITUTE OF SCIENCE AND TECHNOLOGY — CHENNAI
-OFFICIAL ELECTION INTEGRITY & AUDIT CERTIFICATION
+OFFICIAL ELECTION INTEGRITY & AUtyDIT CERTIFICATION
 POWERED BY iNSIGHTS PLATFORM INTELLIGENCE
 ================================================================================
 
